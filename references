@@ -1,0 +1,32 @@
+Hello, World
+- https://www.youtube.com/watch?v=5o3fMLPY7qY
+
+Creating a JTabbedPane and TextFields
+- https://www.geeksforgeeks.org/java-jtabbedpane/
+- https://www.devmedia.com.br/java-swing-conheca-os-componentes-jtextfield-e-jformattedtextfield/30981
+
+Event Button
+- https://codehs.com/tutorial/david/using-java-swing-buttons-events
+
+Navigate between panels with JTabbedPane
+- https://stackoverflow.com/questions/4157293/how-to-switch-tabs-in-jtabbedpane-by-clicking-a-button
+
+Exception
+- https://www.youtube.com/watch?v=OIozDnGYqIU
+
+Search Bar
+- https://coderanch.com/t/706406/java/create-search-box-JTextField-JButton
+
+Table
+- https://stackoverflow.com/questions/3549206/how-to-add-row-in-jtable
+
+DialogBox
+- https://www.bosontreinamentos.com.br/java/como-exibir-message-dialog-e-input-dialog-com-swing-em-java/
+
+Inside of panel
+- https://stackoverflow.com/questions/6872453/how-do-i-tell-if-the-tab-that-i-have-open-is-the-active-tab-in-java
+
+Read Files
+- https://www.programiz.com/java-programming/inputstream
+- https://stackoverflow.com/questions/30564462/read-data-from-a-text-file-and-create-an-object
+- https://stackoverflow.com/questions/8394987/why-does-objectoutputstream-writeobject-throw-ioexception

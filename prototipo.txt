@@ -1,0 +1,37 @@
+livros.csv
+
+dados = nome, gênero, nº páginas
+
+----------------------------
+
+main1.java
+
+- acessa os dados e os armazena em um objeto para processar 
+
+main2.java
+
+- leva esse objeto manipulado para fazer as alterações devida dos dados
+- erro1: adicionar um livro, porém com algum campo não preenchido
+- erro2: pesquisar livro, porém não foi encontrado
+- erro3: editar um livro, porém algum ou mais campos não foram preenchidos
+
+----------------------------
+
+tela principal
+
+opções
+- lista de livros (lidos pelo CSV ou adicionados)
+- adicionar livro 
+
+centro
+- barra de pesquisa
+- lista de livros (cada um tem o botão para visualizar seus dados)
+
+----------------------------
+
+tela de dados
+
+centro
+- nome, gênero, e nº de páginas
+(não precisa do botão de editar, pode fazer a alteração já selecionando o campo)
+
